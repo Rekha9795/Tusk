@@ -22,4 +22,6 @@ Trunk Based Development->If we want to do 2 versions on the same project, then w
 					then we an murge it to the master branch.
 Tusk.md
      ||
-    MarkDown	
+    MarkDown
+    Example:First u have to sign in the git. Then we have to create a repo.
+   
