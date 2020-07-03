@@ -1,0 +1,25 @@
+Git:Linus Torvald
+        ||
+      Firstly he invented Linux Trenel
+                              ||
+                      Meance-> It is an open source and anyone can download the copy make changes and submited but that cannot accept the request from the others
+                                because it requirs the contibuters.
+GIT: Distributed Version control System.
+SCM:Software configuration Management.or Source Code Management.
+Repository:It is a place Where we can store all our code.
+Previously we are using ->Centralized Version Control System (CVCS)
+                                      ||
+				Meance U had a one mechine(computer) and server. All the versions are stored in server.here the drowback is if the server fails or 
+                                the data present in the server can lost.  
+Now we are using        ->Distributed Version control System(DVCS)
+					||
+				Meance In each mechine it creates a local repo (distributed) and we can update our version ,then when we are getting our internet acces 
+                                   at that time we can push our local to the remote repo.
+Trunk Based Development->If we want to do 2 versions on the same project, then we have to create branch.
+				Ex:If an angular project contains version of 4.7 and at the same time we want to do it on the 5.0 .
+				    so, here it contains a master branch with version 4.7  and we are doing some modifications and commiting.
+				    After that if we want to cange it the 5.0 then we have to crate the new branch.If the newly created branch is working properly 
+					then we an murge it to the master branch.
+Tusk.md
+     ||
+    MarkDown	
